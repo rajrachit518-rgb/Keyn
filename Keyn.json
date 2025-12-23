@@ -6,10 +6,10 @@
     "allowOffline": true
   },
   {
-    "id": "15549aae6b3ab6c32",
+    "id": "15549aae6b3a6c32",
     "username": "user2",
     "password": "pass2",
     "expiresAt": "2025-11-30",
-    "allowOffline": false
+    "allowOffline": true
   }
 ]
