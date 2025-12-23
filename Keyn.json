@@ -1,7 +1,3 @@
- {
-    "id": "15549aae6b3a6c32",
-    "username": "RAJRACHIT",
-    "password": "RAJRACHIT",
-    "expiresAt": "31-12-2025",
-    "allowOffline": true
-  }
+[
+    {"id":"15549aae6b3a6c32","username":"RAJ RACHIT","password":"RAJRACHIT","expiresAt":"2025-12-31","allowOffline":true}
+]
