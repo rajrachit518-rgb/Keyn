@@ -5,11 +5,3 @@
     "expiresAt": "31-12-2025",
     "allowOffline": true
   },
-  {
-    "id": "15549aae6b3a6c32",
-    "username": "user2",
-    "password": "pass2",
-    "expiresAt": "2025-11-30",
-    "allowOffline": true
-  }
-
